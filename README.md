@@ -1,4 +1,4 @@
-# Horizon Worlds Snippets
+# Test Horizon Worlds Snippets
 A collection of typescript snippets for Horizon Worlds.
 
 Download the [zip folder](https://github.com/tellous/HorizonWorldsSnippets/archive/refs/heads/main.zip) or check them out in the [Snippets](https://github.com/tellous/HorizonWorldsSnippets/tree/main/Snippets) folder.
